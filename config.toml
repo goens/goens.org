@@ -1,6 +1,9 @@
 # The URL the site will be built for
 base_url = "https://goens.org"
 
+#theme
+theme = "sam"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
@@ -14,3 +17,10 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+sam_menu = [
+         {  text = "about me", link = "/about"},
+         {  text = "publications", link = "/publications"},
+         {  text = "contact", link = "/contact"}
+]
+sam_bottom_menu = true
+date_format = "%e-%b-%Y"                
