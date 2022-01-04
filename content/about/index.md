@@ -12,4 +12,4 @@ I'm a (postdoctoral) research associate at [the University of Edinburgh](https:/
 My primary research interest is in the intersection of programming languages and compilers. Much of my work has focused on using models of computation to reason about an efficient execution of concurrent programs in heterogeneous multicore systems. An overarching goal of my research is to find the right abstractions that help both programmers and compilers reason about the program and its execution.  I am interested in using theorem proving software and type theory to help bridge this gap, be it for hardware development or pure mathematics. From the other side, I am also interested in machine learning on compilers and programming languages.
 
 
-![A picture of me](about/falcon.png)
+![A picture of me](falcon.png)
